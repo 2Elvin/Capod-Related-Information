@@ -217,7 +217,6 @@ Proximity Keys:
 - **Must ensure** Windows host Bluetooth is completely disabled
 - **Must verify <code>lsusb | grep -i bluetooth</code>** can detect the device
 - **MAC address must be accurate**, otherwise cannot connect to device
-- Device needs to support Apple Find My protocol
 
 ### Troubleshooting
 
