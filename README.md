@@ -12,8 +12,8 @@ This guide provides a method to extract Bluetooth keys (IRK and ENC_KEY) from Ap
 ## ⚙️ Environmental Requirements and Preparation
 ### Required Software Environment
 
-  - **[VMware Workstation Player](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion):**
-  - **[Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop):**
+  - **[VMware Workstation Player](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)**
+  - **[Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)**
   - **Python 3:** (Pre-installed with Ubuntu)
 
 ### Critical Prerequisites
