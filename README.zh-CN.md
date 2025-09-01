@@ -5,7 +5,7 @@
 <br>
 
 ## 📋 指南用途说明
-本指南提供了从Apple设备提取蓝牙密钥（IRK和ENC_KEY）的方法，用于在[Capod project](https://github.com/d4rken-org/capod)APP中进行高级设置。获取的安全密钥使用户能够在Capod应用中启用高级功能和自定义选项。
+本指南提供了从Apple设备提取蓝牙密钥（IRK和ENC_KEY）的方法，用于在[Capod](https://github.com/d4rken-org/capod)APP中进行高级设置。获取的安全密钥使用户能够在Capod应用中启用高级功能和自定义选项。
 
 <br>
 <br>
@@ -241,8 +241,8 @@ Proximity Keys:
 
 ## 文档信息：
 
-- 🎯 **主要用途**：为Capod APP提供蓝牙密钥进行高级设置
-- 🐧 **兼容系统**：在VMware上运行的<code>**Ubuntu 24.04 LTS**</code>
+- 🎯 **主要用途**：为[Capod](https://github.com/d4rken-org/capod) APP提供蓝牙密钥进行高级设置
+- 🐧 **兼容系统**：在VMware上运行的<code>**[Ubuntu](https://ubuntu.com/download/desktop) 24.04 LTS**</code>
 - 📦 **软件来源**：所有软件均为官方免费版本
-- 💻 **代码来源**：<code>**GitHub d4rken-org/capod**</code>项目 <code>**@kavishdevar**</code>
+- 💻 **代码来源**：<code>**GitHub [d4rken-org/capod](https://github.com/d4rken-org/capod)**</code>项目 <code>**[@kavishdevar](https://github.com/kavishdevar)**</code>
 - 🔬 **使用目的**：<mark>**仅限于教育研究和授权测试**</mark>
