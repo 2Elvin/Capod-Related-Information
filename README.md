@@ -172,6 +172,7 @@ bluetoothctl scan on
 ![Bash](https://img.shields.io/badge/language-Bash-blue)
 ```bash
 sudo python3 get_ble_keys.py FC:XX:XX:XX:XX:XX
+# ake sure the filename you are running matches the filename in the Python code snippet
 # Replace XX with the obtained MAC address and run directly
 ```
 
