@@ -12,8 +12,8 @@
 ## ⚙️ 环境要求与准备
 ### 必需软件环境
 
-  - **VMware Workstation Player:** [官网链接](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
-  - **Ubuntu 24.04 LTS:** [官网链接](https://ubuntu.com/download/desktop)
+  - **[VMware Workstation Player](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion):**
+  - **[Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop):**
   - **Python 3:** (Ubuntu系统自带)
 
 ### 关键前提条件
