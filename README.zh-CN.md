@@ -172,7 +172,8 @@ bluetoothctl scan on
 ![Bash](https://img.shields.io/badge/language-Bash-blue)
 ```bash
 sudo python3 get_ble_keys.py FC:XX:XX:XX:XX:XX
-#把获取到的MAC地址替换XX直接运行即可
+# 检查确保运行的文件名和 Python 代码段里的文件名一致
+# 把获取到的MAC地址替换XX直接运行即可
 ```
 
 ---
