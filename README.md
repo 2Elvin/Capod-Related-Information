@@ -1,6 +1,5 @@
-### Read in: [English](README.md) | [简体中文](README.zh-CN.md)
-
 # 🎯 Bluetooth Key Extraction Guide for Capod Project
+### Read in: [English](README.md) | [简体中文](README.zh-CN.md)
 
 <br>
 
