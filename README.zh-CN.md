@@ -12,8 +12,8 @@
 ## ⚙️ 环境要求与准备
 ### 必需软件环境
 
-  - **[VMware Workstation Player](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion):**
-  - **[Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop):**
+  - **[VMware Workstation Player](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)**
+  - **[Ubuntu 24.04 LTS](https://ubuntu.com/download/desktop)**
   - **Python 3:** (Ubuntu系统自带)
 
 ### 关键前提条件
@@ -176,12 +176,12 @@ sudo python3 get_ble_keys.py FC:55:57:61:9B:D3
 
 ---
 
-| 参数             | 说明                 | 如何获取 |
-|-----------------------|-----------------------------|------------------------------------------------------------|
-| **sudo**              | 管理员权限    | 需要硬件访问权限 |
-| **python3**           | Python解释器      | Ubuntu系统自带 |
-| **get_ble_keys.py**   | 脚本文件名         | 用户创建的脚本文件 |
-| **FC:55:57:61:9B:D3** | 目标设备MAC地址   | **通过蓝牙扫描或查看已连接设备获得** （替换为你的实际设备地址）  |
+| 参数                  | 说明                        | 如何获取 |
+|-----------------------|-----------------------------|---------------------------------------------------------------|
+| **sudo**              | 管理员权限                   | 需要硬件访问权限 |
+| **python3**           | Python解释器                 | Ubuntu系统自带 |
+| **get_ble_keys.py**   | 脚本文件名                   | 用户创建的脚本文件 |
+| **FC:55:57:61:9B:D3** | 目标设备MAC地址              | **通过蓝牙扫描或查看已连接设备获得** （替换为你的实际设备地址）  |
 
 <br>
 <br>
