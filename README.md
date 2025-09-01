@@ -220,10 +220,10 @@ Proximity Keys:
 
 ### Troubleshooting
 
-- Permission errors: Confirm using **<code>sudo</code>**
-- Device not found: Check if MAC address is correct
-- Connection failed: Confirm device is in range and discoverable
-- No output: Device may not support this protocol
+- **Permission errors**: Confirm using **<code>sudo</code>**
+- **Device not found**: Check if MAC address is correct
+- **Connection failed**: Confirm device is in range and discoverable
+- **No output**: Device may not support this protocol
 
 <br>
 <br>
