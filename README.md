@@ -5,7 +5,7 @@
 <br>
 
 ## 📋 Purpose of This Guide
-This guide provides a method to extract Bluetooth keys (IRK and ENC_KEY) from Apple devices for advanced settings in the [Capod project](https://github.com/d4rken-org/capod) APP. The obtained security keys enable users to access advanced features and customization options in the Capod application.
+This guide provides a method to extract Bluetooth keys (IRK and ENC_KEY) from Apple devices for advanced settings in the [Capod](https://github.com/d4rken-org/capod) APP. The obtained security keys enable users to access advanced features and customization options in the Capod application.
 
 <br>
 <br>
