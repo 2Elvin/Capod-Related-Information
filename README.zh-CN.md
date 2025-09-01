@@ -242,7 +242,7 @@ Proximity Keys:
 
 ## 文档信息
 
-- 🎯 **主要用途**：为[Capod](https://github.com/d4rken-org/capod) APP提供蓝牙密钥进行高级设置
+- 🎯 **主要用途**：为<code>[Capod](https://github.com/d4rken-org/capod) APP</code>提供蓝牙密钥进行高级设置
 - 🐧 **兼容系统**：在VMware上运行的<code>**[Ubuntu](https://ubuntu.com/download/desktop) 24.04 LTS**</code>
 - 📦 **软件来源**：所有软件均为官方免费版本
 - 💻 **代码来源**：<code>**GitHub [d4rken-org/capod](https://github.com/d4rken-org/capod)**</code>项目 <code>**[@kavishdevar](https://github.com/kavishdevar)**</code>
