@@ -242,7 +242,7 @@ Proximity Keys:
 
 ## Document Information
 
-- 🎯 **Primary purpose**: Provide Bluetooth keys for <code>[Capod project](https://github.com/d4rken-org/capod) APP</code> advanced settings
+- 🎯 **Primary purpose**: Provide Bluetooth keys for <code>[Capod](https://github.com/d4rken-org/capod) APP</code> advanced settings
 - 🐧 **Compatible systems**: **<code>[Ubuntu](https://ubuntu.com/download/desktop) 24.04</code>** LTS on VMware
 - 📦 **Software sources**: All software are official free versions
 - 💻 **Code source**: **<code>GitHub [d4rken-org/capod](https://github.com/d4rken-org/capod) project [@kavishdevar](https://github.com/kavishdevar).</code>**
