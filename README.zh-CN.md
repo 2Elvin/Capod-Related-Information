@@ -159,7 +159,7 @@ bluetoothctl scan on
 
 ### 方法二：查看已连接设备
 
-1. **将设备连接到Ubuntu蓝牙**
+1. **将设备连接到<code>Ubuntu蓝牙</code>**
 2. **打开：<code>系统设置</code> → <code>蓝牙</code>**
 3. **点击已连接设备的名称（不是开关）**
 4. **在弹出界面中查看<code>MAC地址</code>**
