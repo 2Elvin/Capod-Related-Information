@@ -159,10 +159,10 @@ bluetoothctl scan on
 
 ### Method 2: View Connected Devices
 
-1. **Connect device to Ubuntu Bluetooth**
-2. **Open: System Settings -> Bluetooth**
+1. **Connect device to <code>Ubuntu Bluetooth</code>**
+2. **Open: <code>System Settings</code> -> <code>Bluetooth</code>**
 3. **Click on connected device name (not the switch)**
-4. **View MAC address in popup interface**
+4. **View <code>MAC address</code> in popup interface**
 
 <br>
 <br>
