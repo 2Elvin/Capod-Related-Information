@@ -215,9 +215,9 @@ Proximity Keys:
 
 ### 技术要求
 
-- **必须确保**Windows主机蓝牙完全关闭
-- **必须验证**<code>**lsusb | grep -i bluetooth**</code>能够检测到设备
-- **MAC地址必须准确**，否则无法连接到设备
+- **必须确保 <mark>Windows主机蓝牙完全关闭</mark>**
+- **必须验证 <mark>lsusb | grep -i bluetooth</mark> 能够检测到设备**
+- **<mark>MAC地址</mark> 必须准确，否则无法连接到设备**
 
 ### 故障排除
 
