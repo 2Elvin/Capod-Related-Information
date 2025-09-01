@@ -215,9 +215,9 @@ Proximity Keys:
 
 ### Technical Requirements
 
-- **Must ensure** Windows host Bluetooth is completely disabled
-- **Must verify <code>lsusb | grep -i bluetooth</code>** can detect the device
-- **MAC address must be accurate**, otherwise cannot connect to device
+- **Must ensure <mark>Windows host Bluetooth is completely disabled</marrk>**
+- **Must verify <mark>lsusb | grep -i bluetooth</mark> can detect the device**
+- **<mark>MAC address</mark>  must be accurate, otherwise cannot connect to device**
 
 ### Troubleshooting
 
@@ -240,7 +240,7 @@ Proximity Keys:
 
 ---
 
-## Document Information:
+## Document Information
 
 - 🎯 **Primary purpose**: Provide Bluetooth keys for [Capod project](https://github.com/d4rken-org/capod) APP advanced settings
 - 🐧 **Compatible systems**: **<code>[Ubuntu](https://ubuntu.com/download/desktop) 24.04</code>** LTS on VMware
