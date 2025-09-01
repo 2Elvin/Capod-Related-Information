@@ -1,6 +1,5 @@
-### 阅读语言：[English](README.md) | [简体中文](README.zh-CN.md)
-
 # 🎯 Capod项目蓝牙密钥提取指南
+### 阅读语言：[English](README.md) | [简体中文](README.zh-CN.md)
 
 <br>
 
